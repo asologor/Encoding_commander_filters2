@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "BetweenFilter.js",
+  "sourceRoot": "..\\..\\coffee",
+  "sources": [
+    "filters\\BetweenFilter.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;kSAAA;;AAAA,CAAA,CAAsC,CAAA,GAAtC,GAAuC,OAAD,WAA/B;CACL,KAAA,OAAA;SAAM;CACJ;;CAAa,CAAe,CAAf,CAAA,IAAA,IAAA,WAAC;CACZ,KAAA,GAAA,uCAAA;CAAA,GACC,EAAD,GAAA,EAAA;CADA,GAEC,EAAD,MAAA,GAAA;CAFA,GAGC,EAAD,EAAA,GAAA;CAHA,GAIC,EAAD,EAAA,GAAA;CALF,IAAa;;CAAb;;CAD0B;CADQ"
+}
