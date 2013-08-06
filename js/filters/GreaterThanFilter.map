@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "GreaterThanFilter.js",
+  "sourceRoot": "..\\..\\coffee",
+  "sources": [
+    "filters\\GreaterThanFilter.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;kSAAA;;AAAA,CAAA,CAAsC,CAAA,GAAtC,GAAuC,OAAD,WAA/B;CACL,KAAA,WAAA;SAAM;CACJ;;CAAa,CAAe,CAAf,CAAA,GAAA,KAAA,eAAC;CACZ,KAAA,GAAA,2CAAA;CAAA,GACC,EAAD,KAAA,EAAA;CADA,GAEC,EAAD,MAAA,GAAA;CAFA,GAGC,EAAD,CAAA,IAAA;CAJF,IAAa;;CAAb;;CAD8B;CADI"
+}
