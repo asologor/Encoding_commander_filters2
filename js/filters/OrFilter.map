@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "OrFilter.js",
+  "sourceRoot": "..\\..\\coffee",
+  "sources": [
+    "filters\\OrFilter.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;;qBAAA;;AAAA,CAAA,CAAsC,CAAA,GAAtC,GAAuC,OAAD,WAA/B;CACL,KAAA,EAAA;SAAM;CACJ;;CAAa,EAAA,CAAA,cAAA;CACX,MAAA,GAAA;CAAA,KADY,iDACZ;CAAA,KAAA,GAAA,kCAAA;CAAA,GACC,EAAD,KAAA;CADA,GAEC,EAAD,CAAA,EAAA;CAHF,IAAa;;CAAb;;CADqB;CADa"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "GreaterOrEqualFilter.js",
+  "sourceRoot": "..\\..\\coffee",
+  "sources": [
+    "filters\\GreaterOrEqualFilter.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;kSAAA;;AAAA,CAAA,CAAsC,CAAA,GAAtC,GAAuC,OAAD,WAA/B;CACL,KAAA,cAAA;SAAM;CACJ;;CAAa,CAAe,CAAf,CAAA,GAAA,KAAA,kBAAC;CACZ,KAAA,GAAA,8CAAA;CAAA,GACC,EAAD,KAAA,KAAA;CADA,GAEC,EAAD,MAAA,GAAA;CAFA,GAGC,EAAD,CAAA,IAAA;CAJF,IAAa;;CAAb;;CADiC;CADC"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "LessThanFilter.js",
+  "sourceRoot": "..\\..\\coffee",
+  "sources": [
+    "filters\\LessThanFilter.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA;kSAAA;;AAAA,CAAA,CAAsC,CAAA,GAAtC,GAAuC,OAAD,WAA/B;CACL,KAAA,QAAA;SAAM;CACJ;;CAAa,CAAe,CAAf,CAAA,GAAA,KAAA,YAAC;CACZ,KAAA,GAAA,wCAAA;CAAA,GACC,EAAD,IAAA,CAAA;CADA,GAEC,EAAD,MAAA,GAAA;CAFA,GAGC,EAAD,CAAA,IAAA;CAJF,IAAa;;CAAb;;CAD2B;CADO"
+}
